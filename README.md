@@ -1,2 +1,5 @@
-# udacity-nanodegree-project2
-Udacity Nanodegree - Project 2 - Image Classification
+# Udacity Nanodegree - Project 1 - First neural network
+Created by Thyago Clemente for submission to Udacity's Nanodregree course.
+
+
+
